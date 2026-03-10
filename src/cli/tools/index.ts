@@ -69,6 +69,7 @@ export const ResolverMap: Record<string, InstallToolType | undefined> = {
   copier: 'pip',
   corepack: 'npm',
   hashin: 'pip',
+  kas: 'pip',
   npm: 'npm',
   pnpm: 'npm',
   pdm: 'pip',
